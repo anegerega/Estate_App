@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using estate_app.Models;
+using EstateApp.Web.Models;
 
-namespace estate_app.Controllers
+namespace EstateApp.Web.Controllers
 {
     public class HomeController : Controller
     {
