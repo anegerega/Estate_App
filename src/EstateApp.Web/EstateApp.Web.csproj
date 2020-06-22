@@ -6,6 +6,7 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="..\EstateApp.Data\EstateApp.Data.csproj" />
   </ItemGroup>
 
 </Project>
